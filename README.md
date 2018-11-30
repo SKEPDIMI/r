@@ -20,3 +20,9 @@ https://www.analyticsvidhya.com/blog/2017/03/conditional-probability-bayes-theor
 
 Facebook Chat
 https://www.facebook.com/note.php?note_id=14218138919
+
+Comp history:
+https://news.ycombinator.com/item?id=710802
+
+Docker resources:
+https://news.ycombinator.com/item?id=10172793
