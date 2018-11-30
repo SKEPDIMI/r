@@ -17,3 +17,6 @@ https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 
 Contitional probability and bayesian theorem
 https://www.analyticsvidhya.com/blog/2017/03/conditional-probability-bayes-theorem/
+
+Facebook Chat
+https://www.facebook.com/note.php?note_id=14218138919
