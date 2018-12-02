@@ -26,3 +26,6 @@ https://news.ycombinator.com/item?id=710802
 
 Docker resources:
 https://news.ycombinator.com/item?id=10172793
+
+Programmers Introduction to Mathematics:
+https://pimbook.com
