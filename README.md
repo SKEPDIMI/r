@@ -29,3 +29,6 @@ https://news.ycombinator.com/item?id=10172793
 
 Programmers Introduction to Mathematics:
 https://pimbook.com
+
+Blog Style:
+https://robertheaton.com/2018/12/06/a-blogging-style-guide/
