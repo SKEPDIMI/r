@@ -32,3 +32,6 @@ https://pimbook.com
 
 Blog Style:
 https://robertheaton.com/2018/12/06/a-blogging-style-guide/
+
+Important Software innovations:
+https://dwheeler.com/innovation/innovation.html
